@@ -1,3 +1,4 @@
+document.getElementById("myDIV").style.minwidth= "100%";
 body
 	{
 		font-family: roboto;
